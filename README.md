@@ -6,6 +6,7 @@ La definición de la nube puede parecer poco clara, pero, básicamente, es un t�
 
 ### Tipos de nube:
 - **Nube Pública:** Servicios que se ofrecen a través de la Internet pública y que están disponibles para todo el que desee adquirirlos.
+
 ![Nube publica](https://cambiodigital-ol.com/wp-content/uploads/2018/08/nube.jpg) 
 
 - **Nube Privada:** Servicios que se ofrecen a través de Internet o de una red interna privada a determinados usuarios, no al público general.
