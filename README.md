@@ -81,16 +81,35 @@ Los equipos utilizan prácticas para automatizar los procesos que anteriormente 
 Avance a gran velocidad e innove para sus clientes con mayor rapidez, adáptese mejor a los cambios en los mercados y adquiera mayor eficacia en la consecución de los resultados empresariales. El modelo de DevOps permite a sus equipos de desarrollo y operaciones lograr estos resultados. Por ejemplo, los microservicios y la entrega continua permiten que los equipos se hagan responsables de los servicios y los actualicen con mayor rapidez.
 
 2. Entrega rápida.
-Incremente la frecuencia y el ritmo de las versiones, a fin de innovar y mejorar el producto con mayor rapidez. Cuanto más rápido publique nuevas características y arregle errores, más rápido podrá responder a las necesidades de los clientes y desarrollar una ventaja competitiva. La integración continua y la entrega continua son prácticas que automatizan el proceso de publicación de software, desde la creación hasta la implementación.
+Incrementa la frecuencia y el ritmo de las versiones, a fin de innovar y mejorar el producto con mayor rapidez. Cuanto más rápido publique nuevas características y arregle errores, más rápido podrá responder a las necesidades de los clientes y desarrollar una ventaja competitiva. La integración continua y la entrega continua son prácticas que automatizan el proceso de publicación de software, desde la creación hasta la implementación.
 
 3. Confiabilidad.
-Garantice la calidad de las actualizaciones de la aplicación y los cambios en la infraestructura a fin de poder realizar entregas más rápidas de forma confiable mientras ofrece una experiencia positiva a los usuarios finales. Utilice prácticas como la integración continua y la entrega continua para comprobar que cada cambio es funcional y seguro. Las prácticas de monitoreo y registro lo ayudan a mantenerse informado del desempeño en tiempo real.
+Calidad de las actualizaciones de la aplicación y los cambios en la infraestructura a fin de poder realizar entregas más rápidas de forma confiable mientras ofrece una experiencia positiva a los usuarios finales. Utilice prácticas como la integración continua y la entrega continua para comprobar que cada cambio es funcional y seguro. Las prácticas de monitoreo y registro lo ayudan a mantenerse informado del desempeño en tiempo real.
 
 4. Escalado.
 Opere y administre su infraestructura y procesos de desarrollo a escala. La automatización y coherencia lo ayudan a administrar sistemas complejos o cambiantes de forma eficaz con menos riesgo. Por ejemplo, la infraestructura como código lo ayuda a administrar los entornos de desarrollo, pruebas y producción de forma repetible y más eficaz.
 
 5. Colaboración mejorada.
-Desarrolle equipos más eficaces con un modelo cultural de DevOps, que enfatiza valores como la propiedad y la responsabilidad. Los desarrolladores y equipos de operaciones colaboran estrechamente, comparten muchas responsabilidades y combinan sus flujos de trabajo. Así se reducen las ineficacias y se ahorra tiempo (p. ej. se reducen los periodos de transferencia entre desarrolladores y operaciones, cuando escribe código que tiene en cuenta el entorno en el que se ejecuta).
+Equipos más eficaces con un modelo cultural de DevOps, que enfatiza valores como la propiedad y la responsabilidad. Los desarrolladores y equipos de operaciones colaboran estrechamente, comparten muchas responsabilidades y combinan sus flujos de trabajo. Así se reducen las ineficacias y se ahorra tiempo (p. ej. se reducen los periodos de transferencia entre desarrolladores y operaciones, cuando escribe código que tiene en cuenta el entorno en el que se ejecuta).
 
 5. Seguridad.
 Avance con rapidez mientras retiene el control y mantiene la conformidad. Puede adoptar un modelo de DevOps sin sacrificar la seguridad si utiliza políticas de conformidad automatizadas, controles minuciosos y técnicas de administración de la configuración. Por ejemplo, cuando utiliza la infraestructura como código y la política como código, puede definir y supervisar la conformidad a escala.
+### Capex.
+La financiación que utilizan las empresas para adquirir activos físicos (nuevos o actualizar los existentes) se conocen como gastos de capital o Capex. Se suelen dividir en dos tipos:
+1. Gastos de expansión: aquellos que invierten en nuevos activos que amplían los que dispone la empresa.
+2. Gasto de mantenimiento: los destinados a mejorar o ampliar la vida útil de los activos que ya se poseen.
+
+Estos gastos de capital no se cuentan como gastos de forma inmediata, sino que se amortizan los mismos durante un periodo de tiempo, ofreciendo diversas ventajas a las empresas (fiscales, contables…).
+
+Algunos ejemplos de inversiones Capex son la compra de inmuebles (locales, oficinas, etc) o la adquisición de vehículos (de transporte o comerciales).
+### Opex.
+Los gastos operativos o de explotación son conocidos como Opex, y son gastos que se realizan de forma continuada y están relacionados con las operaciones de la empresa. Podemos definir Opex como los gastos fluctuantes que realiza una empresa.
+
+Algunos ejemplos de estos tipos de gastos son: gastos en instalaciones, alquileres, o formación de personal.
+
+## Referencias
+ 1. AWS. (s. f.). ¿Qué es DevOps? - Amazon Web Services (AWS). Amazon Web Services, Inc. https://aws.amazon.com/es/devops/what-is-devops/
+ 2. Becerra, J. L. (2014, 21 enero). La nube privada permite ofrecer servicios más seguros. CIO MX. https://cio.com.mx/la-nube-privada-permite-ofrecer-servicios-mas-seguros/OnLine, 
+ 3. P. C. (2019, 8 abril). La nube pública: Ejemplos reales del éxito estratégico. Cambio Digital Online. https://cambiodigital-ol.com/2019/04/la-nube-publica-ejemplos-reales-del-exito-estrategico/
+ 4. REDHAT. (2019). ¿Qué es una máquina virtual? https://www.redhat.com/es/topics/virtualization/what-is-a-virtual-machine
+ 5. Team, A. (2020, 20 febrero). Capex vs Opex, ¿qué opción elegir al invertir en IT? ambit. https://www.ambit-bst.com/blog/capex-vs-opex-qu%C3%A9-opci%C3%B3n-elegir-al-invertir-en-it
