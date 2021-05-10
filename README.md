@@ -6,19 +6,13 @@ La definición de la nube puede parecer poco clara, pero, básicamente, es un t�
 
 ### Tipos de nube:
 - **Nube Pública:** Servicios que se ofrecen a través de la Internet pública y que están disponibles para todo el que desee adquirirlos.
-<center>
-
-![Nube publica](https://cambiodigital-ol.com/wp-content/uploads/2018/08/nube.jpg)
-</center>
 
 - **Nube Privada:** Servicios que se ofrecen a través de Internet o de una red interna privada a determinados usuarios, no al público general.
-<center>
 
-![Nube privada](https://cio.com.mx/wp-content/uploads/2013/03/seguridad-nube.jpg)
-</center>
 
 - **Nube Híbrida:** Nube que combina nubes públicas y privadas, enlazadas mediante tecnología, que permite compartir datos y aplicaciones entre ellas. Una nube híbrida aporta a los negocios mayor flexibilidad para escalar o reducir verticalmente los recursos, y ofrece más opciones de implementación.
-![Nube hibrida](https://www.nephosit.com/wp-content/uploads/2018/04/shutterstock_699701563-1200x800.jpg)
+
+![Nubes hibrida, privada publica](https://www.nephosit.com/wp-content/uploads/2018/04/shutterstock_699701563-1200x800.jpg)
 ## Definición de IaaS, PaaS y SaaS.
 ### IaaS
 #### ¿Qué es...?
@@ -74,4 +68,29 @@ Los hipervisores de tipo 2 se encuentran alojados. Los recursos de la máquina v
 La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el propósito de crear máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta lejana y misteriosa, pero que desde hace unos años está presente en nuestro día a día a todas horas.
 #### Tipos de inteligencia artificial.
 Los expertos en ciencias de la computación Stuart Russell y Peter Norvig diferencian varios tipos de inteligencia artificial:
-![Sys](https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/inteligencia_artificial_1_res/neuronas.svg)
+### DevOps.
+Las operaciones de desarrollo constituyen una combinación de filosofías culturales, prácticas y herramientas que incrementan la capacidad de una organización de proporcionar aplicaciones y servicios a gran velocidad: desarrollar y mejorar productos con mayor rapidez que las organizaciones que utilizan procesos tradicionales de desarrollo de software y administración de la infraestructura. Esta velocidad permite a las organizaciones servir mejor a sus clientes y competir de forma más eficaz en el mercado.
+![devops](https://d1.awsstatic.com/product-marketing/DevOps/DevOps_feedback-diagram.ff668bfc299abada00b2dcbdc9ce2389bd3dce3f.png)
+#### ¿En qué consiste?
+Bajo un modelo de DevOps, los equipos de desarrollo y operaciones ya no están “aislados”. A veces, los dos equipos se fusionan en uno solo, donde los ingenieros trabajan en todo el ciclo de vida de la aplicación, desde el desarrollo y las pruebas hasta la implementación y las operaciones, y desarrollan una variedad de habilidades no limitadas a una única función.
+
+En algunos modelos de DevOps, los equipos de control de calidad y de seguridad también se integran más con el desarrollo y las operaciones e intervienen durante todo el ciclo de vida de la aplicación. Cuando la seguridad es la prioridad de todos los miembros de DevOps, a veces se conoce como operaciones de seguridad de desarrollo.
+Los equipos utilizan prácticas para automatizar los procesos que anteriormente habían sido manuales y lentos. Utilizan una pila de tecnología y herramientas que los ayudan a operar y mejorar aplicaciones de forma rápida y confiable. Además, estas herramientas ayudan a los ingenieros a realizar de forma independiente tareas que normalmente hubieran requerido la ayuda de otros equipos (por ejemplo, implementar código o aprovisionar infraestructura), lo que incrementa todavía más la velocidad del equipo.
+#### Beneficios.
+1. Velocidad.
+Avance a gran velocidad e innove para sus clientes con mayor rapidez, adáptese mejor a los cambios en los mercados y adquiera mayor eficacia en la consecución de los resultados empresariales. El modelo de DevOps permite a sus equipos de desarrollo y operaciones lograr estos resultados. Por ejemplo, los microservicios y la entrega continua permiten que los equipos se hagan responsables de los servicios y los actualicen con mayor rapidez.
+
+2. Entrega rápida.
+Incremente la frecuencia y el ritmo de las versiones, a fin de innovar y mejorar el producto con mayor rapidez. Cuanto más rápido publique nuevas características y arregle errores, más rápido podrá responder a las necesidades de los clientes y desarrollar una ventaja competitiva. La integración continua y la entrega continua son prácticas que automatizan el proceso de publicación de software, desde la creación hasta la implementación.
+
+3. Confiabilidad.
+Garantice la calidad de las actualizaciones de la aplicación y los cambios en la infraestructura a fin de poder realizar entregas más rápidas de forma confiable mientras ofrece una experiencia positiva a los usuarios finales. Utilice prácticas como la integración continua y la entrega continua para comprobar que cada cambio es funcional y seguro. Las prácticas de monitoreo y registro lo ayudan a mantenerse informado del desempeño en tiempo real.
+
+4. Escalado.
+Opere y administre su infraestructura y procesos de desarrollo a escala. La automatización y coherencia lo ayudan a administrar sistemas complejos o cambiantes de forma eficaz con menos riesgo. Por ejemplo, la infraestructura como código lo ayuda a administrar los entornos de desarrollo, pruebas y producción de forma repetible y más eficaz.
+
+5. Colaboración mejorada.
+Desarrolle equipos más eficaces con un modelo cultural de DevOps, que enfatiza valores como la propiedad y la responsabilidad. Los desarrolladores y equipos de operaciones colaboran estrechamente, comparten muchas responsabilidades y combinan sus flujos de trabajo. Así se reducen las ineficacias y se ahorra tiempo (p. ej. se reducen los periodos de transferencia entre desarrolladores y operaciones, cuando escribe código que tiene en cuenta el entorno en el que se ejecuta).
+
+5. Seguridad.
+Avance con rapidez mientras retiene el control y mantiene la conformidad. Puede adoptar un modelo de DevOps sin sacrificar la seguridad si utiliza políticas de conformidad automatizadas, controles minuciosos y técnicas de administración de la configuración. Por ejemplo, cuando utiliza la infraestructura como código y la política como código, puede definir y supervisar la conformidad a escala.
