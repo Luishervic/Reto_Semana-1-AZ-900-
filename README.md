@@ -6,11 +6,15 @@ La definición de la nube puede parecer poco clara, pero, básicamente, es un t�
 
 ### Tipos de nube:
 - **Nube Pública:** Servicios que se ofrecen a través de la Internet pública y que están disponibles para todo el que desee adquirirlos.
-
-![Nube publica](https://cambiodigital-ol.com/wp-content/uploads/2018/08/nube.jpg=250x) 
+<center>
+![Nube publica](https://cambiodigital-ol.com/wp-content/uploads/2018/08/nube.jpg)
+</center>
 
 - **Nube Privada:** Servicios que se ofrecen a través de Internet o de una red interna privada a determinados usuarios, no al público general.
+<center>
 ![Nube privada](https://cio.com.mx/wp-content/uploads/2013/03/seguridad-nube.jpg)
+</center>
+
 - **Nube Híbrida:** Nube que combina nubes públicas y privadas, enlazadas mediante tecnología, que permite compartir datos y aplicaciones entre ellas. Una nube híbrida aporta a los negocios mayor flexibilidad para escalar o reducir verticalmente los recursos, y ofrece más opciones de implementación.
 ![Nube hibrida](https://www.nephosit.com/wp-content/uploads/2018/04/shutterstock_699701563-1200x800.jpg)
 ## Definición de IaaS, PaaS y SaaS.
@@ -64,4 +68,8 @@ Los hipervisores de tipo 1 se encuentran en equipos sin sistema operativo. El hi
 
 2. Tipo 2
 Los hipervisores de tipo 2 se encuentran alojados. Los recursos de la máquina virtual se programan en un sistema operativo host, que después se ejecuta en el sistema de hardware. VMware Workstation y Oracle VirtualBox son ejemplos de hipervisores de tipo 2.
-###
+### Inteligencia Artificial.
+La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el propósito de crear máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta lejana y misteriosa, pero que desde hace unos años está presente en nuestro día a día a todas horas.
+#### Tipos de inteligencia artificial.
+Los expertos en ciencias de la computación Stuart Russell y Peter Norvig diferencian varios tipos de inteligencia artificial:
+![Sys](https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/inteligencia_artificial_1_res/neuronas.svg)
